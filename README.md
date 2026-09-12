@@ -8,6 +8,10 @@ A responsive, animated white-label recreation of the supplied Starlink AI token-
 - `style.css` — responsive white/blue/purple visual system, glass cards, gradients, waves and animations
 - `script.js` — scroll reveal, FAQ accordion behavior, demo modal and small interactions
 
+## Demo
+
+![Starlink AI White Label Demo](demo.png)
+
 ## Run locally
 
 Just open `index.html` in a browser.
